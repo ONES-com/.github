@@ -1,5 +1,5 @@
 <a href="https://ones.com/">
-  <img width="4096" height="1308" alt="ONES.com Developer & AI Resources. Technical resources for teams evaluating Atlassian Data Center / Server alternatives, building ONES apps, and connecting AI assistants with ONES.com." src="./profile-readme-banner.png" />
+  <img width="4096" height="1308" alt="ONES.com Developer & AI Resources. Technical resources for teams evaluating Atlassian Data Center / Server alternatives, building ONES apps, and connecting AI assistants with ONES.com." src="./profile-readme-banner.webp" />
 </a>
 
 <h3 align="center">
