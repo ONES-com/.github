@@ -1,5 +1,5 @@
 <a href="https://ones.com/">
-  <img width="4096" height="1381" alt="ONES.com GitHub cover" src="./onescom-imagegen-promo-4096x1381.png" />
+  <img width="4096" height="1381" alt="ONES.com GitHub cover" src="./onescom-imagegen-promo-4096x1381.webp" />
 </a>
 
 <h3 align="center">
