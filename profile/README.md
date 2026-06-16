@@ -1,11 +1,19 @@
 <a href="https://ones.com/">
-  <img width="4096" height="1381" alt="ONES.com GitHub cover" src="./onescom-imagegen-promo-4096x1381.webp" />
+  <img width="4096" height="1308" alt="ONES.com Developer & AI Resources. Technical resources for teams evaluating Atlassian Data Center / Server alternatives, building ONES apps, and connecting AI assistants with ONES.com." src="./profile-readme-banner.png" />
 </a>
 
-<h3 align="center">
-  <b><a href="https://ones.com/sign_up">Get started free</a></b>
-  •
-  <a href="https://docs.ones.com/">Docs</a>
-  •
-  <a href="https://ones.com/">Website</a>
-</h3>
+<p align="center">
+  <a href="https://ones.com">Website</a> ·
+  <a href="https://docs.ones.com/developer/">Developer Docs</a> ·
+  <a href="https://ones.com/jira-data-center-alternative">Atlassian Migration</a>
+</p>
+
+## Start by goal
+
+| If you want to... | Start here |
+| --- | --- |
+| Build ONES apps | [`ones-app-examples`](https://github.com/ONES-com/ones-app-examples) |
+| Try AI workflows | [`agent-skills`](https://github.com/ONES-com/agent-skills) |
+| Connect AI assistants via MCP | `ones-mcp-examples` |
+| Evaluate Atlassian migration | `atlassian-migration-resources` |
+| Review deployment options | [ONES.com](https://ones.com) |
