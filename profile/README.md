@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://ones.com">Website</a> ·
-  <a href="https://docs.ones.com/developer/">Developer Docs</a> ·
-  <a href="https://ones.com/jira-data-center-alternative">Atlassian Migration</a>
+  <a href="https://docs.ones.com/developer/guide/getting-started/">Developer Docs</a> ·
+  <a href="https://ones.com/solutions/atlassian-alternative">Atlassian Alternative</a>
 </p>
 
 ## Start by goal
@@ -16,4 +16,4 @@
 | Try AI workflows | [`agent-skills`](https://github.com/ONES-com/agent-skills) |
 | Connect AI assistants via MCP | `ones-mcp-examples` |
 | Evaluate Atlassian migration | `atlassian-migration-resources` |
-| Review deployment options | [ONES.com](https://ones.com) |
+| Review deployment options | [Deployment Options for Enterprise Needs](https://ones.com/on-premises) |
